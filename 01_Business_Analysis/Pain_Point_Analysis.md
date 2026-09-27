@@ -25,7 +25,3 @@ The main pain points identified within the current process are:
 ### Overall Process Challenge
 The current process is functional but relies heavily on manually maintained files, calculations and reporting activities. As the volume of LAs and historical QC information increases, these activities can make it more difficult to efficiently access information, identify performance patterns and provide consistent reporting.
 These pain points provide the basis for analysing the requirements of an improved QC reporting and analysis process.
-
-The current process is functional but relies heavily on manually maintained files, calculations and reporting activities. As the volume of LAs and historical QC information increases, these activities can make it more difficult to efficiently access information, identify performance patterns and provide consistent reporting.
-
-These pain points provide the basis for analysing the requirements of an improved QC reporting and analysis process.
